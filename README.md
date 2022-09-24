@@ -1,1 +1,1 @@
-# Java2022_Odev2
+Kodlama.IO - Java2022 Kurs İkinci Hafta Ödev
