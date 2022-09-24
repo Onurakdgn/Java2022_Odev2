@@ -1,0 +1,7 @@
+package classesWithAttributes;
+
+public class Main {
+	Product product = new Product();
+	product.name = "Laptop";
+	sys
+}

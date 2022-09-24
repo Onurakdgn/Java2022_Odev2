@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Users\PC\Desktop\KodlamaIOJava2022\.metadata\.plugins\org.eclipse.jdt.core
+2888110583.index
+98802120.index
+858178207.index
+4163541083.index
+373274376.index
+1888937284.index
+2908218732.index
+2104893808.index
+966851747.index
+1865797976.index
